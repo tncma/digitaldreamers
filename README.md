@@ -34,8 +34,8 @@ Can view all assigned tasks
 Can mark it resolved on completion of the task
  
 ===============================================================
-Project 2 - PDS (GOI grain ration) system
------------------------------------------
+Project 2 - PDS (GOI grain ration) management application
+--------------------------------------------------------
 
 Android application for modernizing ration distribution system using QR code validation at the ration card holder level.
 The ‘ration shop’ owner would be using this application to administer the rations to citizens.
