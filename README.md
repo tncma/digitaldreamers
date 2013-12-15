@@ -11,9 +11,14 @@ Kiran Venkatarao- Place : Bangalore
 Project 1 - COMPLIANT BOX
 -------------------------
 
-Technology - Andriod
-Description - 
+Technology - Andriod and web services
+Description  - 
 Android application for grievance system at a municipality level
+
+The data communication between the server and client would be done using
+web services built on google app engine
+
+
 
 Citizen – User. User reports an issue / complaint
 Can add and close a resolved complaint
