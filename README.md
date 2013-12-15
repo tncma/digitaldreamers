@@ -7,7 +7,10 @@ Aravind Sreedharan - Place : Chennai
 Kiran Venkatarao- Place : Bangalore
 
 
+===============================================================
 Project 1 - COMPLIANT BOX
+-------------------------
+
 Technology - Andriod
 Description - 
 Android application for grievance system at a municipality level
@@ -25,8 +28,9 @@ Employee – The worker on the street who addresses the problem
 Can view all assigned tasks
 Can mark it resolved on completion of the task
  
-
+===============================================================
 Project 2 - PDS (GOI grain ration) system
+-----------------------------------------
 
 Android application for modernizing ration distribution system using QR code validation at the ration card holder level.
 The ‘ration shop’ owner would be using this application to administer the rations to citizens.
